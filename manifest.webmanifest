@@ -1,0 +1,88 @@
+{
+  "name": "25 Foods",
+  "short_name": "25foods",
+"description": "Nutri Food & Recipie",
+  "icons": [
+  {
+    "src": "https://cdn.jsdelivr.net/gh/go69/icon@svg/25-foods-512.svg",
+      "sizes": "any",
+      "type": "image/svg+xml",
+      "purpose": "maskable any"
+    },
+    {
+    "src": "https://www.google.com/s2/favicons?sz=256&domain_url=foxcow.com",
+      "sizes": "256x256",
+      "type": "image/png"
+    },
+    {
+    "src": "https://www.google.com/s2/favicons?sz=256&domain_url=foxcow.com",
+      "sizes": "256x256",
+      "type": "image/png",
+      "purpose": "maskable"
+    },
+    {
+    "src": "https://www.google.com/s2/favicons?sz=128&domain_url=foxcow.com",
+      "sizes": "128x128",
+      "type": "image/png"
+    },
+    {
+    "src": "https://cdn.jsdelivr.net/gh/go69/icon@svg/25-foods-96.png",
+      "sizes": "96x96",
+      "type": "image/png"
+    },
+    {
+    "src": "https://favicon.yandex.net/favicon/foxcow.com?size=120",
+      "sizes": "120x120",
+      "type": "image/png"
+    },
+    {
+    "src": "https://cdn.jsdelivr.net/gh/go69/icon@svg/25-foods-512.png",
+      "sizes": "512x512",
+      "type": "image/png"
+    }],
+  "lang": "en-US",
+  "dir":"ltr",
+  "start_url": "https:\/\/www.25foods.com\/",
+  "display": "minimal-ui",
+  "background_color": "white",
+  "theme_color": "white",
+"categories": ["cooking", "food", "How to cook receipe","bake","Non veg","veg"],
+"related_applications": [{
+    "platform": "webapp",
+    "url": "https://cdn.jsdelivr.net/gh/go69/icon@svg/manifest.webmanifest"
+  }],
+"prefer_related_applications": false,
+"screenshots" : [
+  {
+    "src": "https://cdn.jsdelivr.net/gh/go69/icon@svg/25-foods-512.png",
+    "sizes": "512x512",
+    "type": "image/png"
+  }
+],
+"shortcuts": [
+    {
+      "name": "vegetarian",
+      "short_name": "veg",
+      "url": "https://www.25foods.com/search/label/veg?max-results=10",
+      "icons": [
+        { "src": "https://s.w.org/images/core/emoji/svg/1f331.svg", "sizes": "any", "type": "image/svg+xml" }
+      ]
+    },
+    {
+      "name": "Cooking food",
+      "short_name": "Food",
+      "url": "https://foxcow.com/69foods/",
+      "icons": [
+        { "src": "https://s.w.org/images/core/emoji/svg/1f357.svg", "sizes": "any", "type": "image/svg+xml" }
+      ]
+    }
+    ],
+"scope": "/",
+"orientation":"any",
+"features": [
+    "how to make recipe",
+    "Tips & tricks to cook healthy and nutritious food",
+    "Step by Step for trying new receipe eat and drink Trendy food"
+  ]
+  ,"capture_links":"none"
+}
