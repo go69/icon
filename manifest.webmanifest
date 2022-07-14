@@ -43,7 +43,7 @@
     }],
   "lang": "en-US",
   "dir":"ltr",
-  "start_url": "https://www.25foods.com/",
+  "start_url": ".",
   "display": "minimal-ui",
   "background_color": "white",
   "theme_color": "white",
