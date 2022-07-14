@@ -38,7 +38,8 @@
     {
     "src": "https://cdn.jsdelivr.net/gh/go69/icon@svg/25-foods-512.png",
       "sizes": "512x512",
-      "type": "image/png"
+      "type": "image/png",
+      "purpose": "maskable any"
     }],
   "lang": "en-US",
   "dir":"ltr",
