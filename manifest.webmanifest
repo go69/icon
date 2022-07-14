@@ -10,18 +10,18 @@
       "purpose": "maskable any"
     },
     {
-    "src": "https://www.google.com/s2/favicons?sz=256&domain_url=foxcow.com",
+    "src": "https://www.google.com/s2/favicons?sz=256&domain_url=25foods.com",
       "sizes": "256x256",
       "type": "image/png"
     },
     {
-    "src": "https://www.google.com/s2/favicons?sz=256&domain_url=foxcow.com",
+    "src": "https://www.google.com/s2/favicons?sz=256&domain_url=25foods.com",
       "sizes": "256x256",
       "type": "image/png",
       "purpose": "maskable"
     },
     {
-    "src": "https://www.google.com/s2/favicons?sz=128&domain_url=foxcow.com",
+    "src": "https://www.google.com/s2/favicons?sz=128&domain_url=25foods.com",
       "sizes": "128x128",
       "type": "image/png"
     },
