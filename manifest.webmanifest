@@ -70,9 +70,9 @@
       ]
     },
     {
-      "name": "Cooking food",
-      "short_name": "Food",
-      "url": "https://foxcow.com/69foods/",
+      "name": "Non-Vegetarian",
+      "short_name": "Non-Veg",
+      "url": "https://www.25foods.com/search/label/non%20veg?max-results=10",
       "icons": [
         { "src": "https://s.w.org/images/core/emoji/svg/1f357.svg", "sizes": "any", "type": "image/svg+xml" }
       ]
