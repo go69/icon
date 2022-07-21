@@ -43,7 +43,7 @@
     }],
   "lang": "en-US",
   "dir":"ltr",
-  "start_url": "./",
+  "start_url": "/?m\u003d1",
   "display": "minimal-ui",
   "background_color": "white",
   "theme_color": "white",
