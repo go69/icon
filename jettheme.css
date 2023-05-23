@@ -10,7 +10,7 @@ URL			: www.25foods.com
 :root {
 --bs-font-sans-serif: system-ui,-apple-system,Segoe UI,Helvetica Neue,Arial,Noto Sans,Liberation Sans,sans-serif,Apple Color Emoji,Segoe UI Emoji,Segoe UI Symbol,Noto Color Emoji;
 --bs-body-bg: #ffffff;
---bs-body-color: #686868;
+--bs-body-color: #000000;
 --jt-primary: #f67938;
 --jt-heading-color: #000000;
 --jt-heading-link: #000000;
